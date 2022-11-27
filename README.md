@@ -5,7 +5,7 @@
 .
 .
 .
-## Course Name : Mobile and Pervasive Computing
+
 ## Instructor: Dr. Suchetana Chakraborty 
 
 ## Team

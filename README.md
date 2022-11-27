@@ -11,22 +11,21 @@
 ## Team
 | Name                                            | Year      | Department                       |
 | ----------------------------------------------- | --------- | -------------------------------- |
-| [Maruf Hussain](https://github.com/stalker-john) | 3rd Year | Computer Science And Engineering |
-| [Neeraj Anand](https://github.com/neeraj-2) | 3rd Year | Computer Science And Engineering |
+| [Manveer Singh Rathore](https://github.com/MansaBana) | 4th Year | Computer Science And Engineering |
+| [Neeraj Anand](https://github.com/neeraj-2) | 4th Year | Computer Science And Engineering |
 
 
 
 
 ## How to run app using on your real/virtual device
 ```sh
-1.clone the repositore using `git clone github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-neeraj-2.git `
+1.clone the repositore using `git clone https://github.com/MansaBana/nema.git `
 2.Change directory to the folder.
-cd Mobile-and-Pervasive-Computing-Projects/course-projects-neeraj-2
-4.Now install all the node dependecies
+3.Now install all the node dependecies
 npm install
-5.Start metro server using
+4.Start metro server using
 npm run start
-6.Now install the app on your device using
+5.Now install the app on your device using
 npx react-native run-android
 ```
 
@@ -118,10 +117,6 @@ Here, we can see Maruf(one of our users) is starting the stream and on the other
 3. Further we integrated webrtc and socket.io for p2p video-exchange b/w streamers and users.
 3. Further we tested our app on real device as well as virtual devices/emulators.
 
-
-### Demo Link:
-
-- https://www.youtube.com/watch?v=3djEbzmBI-I
 
 
 

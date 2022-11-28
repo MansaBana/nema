@@ -37,7 +37,7 @@ npx react-native run-android
 .
 ## About our app
 
-This is a collaborative video streaming application using socket.io and webrtc. Uisng it a user can do live-stream via P2P connection among streamers and viewers. A user just needs to create a room by providing a room name and an ID, further others users can join the stream using the same roomID.
+This is a collaborative video streaming application using socket.io and webrtc. Using it, a user can do live-stream via P2P connection among streamers and viewers. A user just needs to create a room by providing a room name and an ID, further others users can join the stream using the same roomID.
 
 Here are some of the screens of our app:
 
@@ -52,7 +52,7 @@ Here are the onboarding screens of our app, where users can get an idea of the a
 
 - Signup/Login Screen
 
-We have integrated **Google auth**, **Facebook auth** to our application. Thus if a user has an authorized google accounthe/she can sign in to our application using the same. Now let's say a user does not have the same. Then for that, we have integrated **firebase auth**. So a user can simply create an account on our app and he/she can further use our app by logging in using the same credentials. For implementing these functioanities we have used firebase/DB, firebase/auth, firebase/storage react-native utilities.
+We have integrated **Google auth**, **Facebook auth** to our application. Thus if a user has an authorized google account he/she can sign in to our application using the same. Now let's say a user does not have the same. Then for that, we have integrated **firebase auth**. So a user can simply create an account on our app and he/she can further use our app by logging in using the same credentials. For implementing these functioanities we have used firebase/DB, firebase/auth, firebase/storage react-native utilities.
 
 
 
